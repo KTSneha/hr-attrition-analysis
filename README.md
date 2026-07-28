@@ -30,7 +30,7 @@ Excel (data cleaning, pivot tables) · Power BI (dashboard, DAX measures)
 
 ## Dashboard Preview
 
-![Dashboard Preview](screenshots/dashboard_preview.png)
+![Dashboard Preview](dashboard/dashboard_preview.png)
 
 ## Files
 
